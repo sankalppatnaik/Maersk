@@ -11,7 +11,7 @@ Based on the Test data set you should also be able to identify the accuracy of t
 
 Fake news Detection.zip
 
-2.Problem Statement 2
+ 2. Problem Statement 2
 Create an Image Analytics script to detect License Number plate in the images.
 You could use OpenCV or Libraries of your choice. The application should draw a bounding box around the License plate and blur the license plate.
 We could use online Jupyter Lab or similar environment to build this.
